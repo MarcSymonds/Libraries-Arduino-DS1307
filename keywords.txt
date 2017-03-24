@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DS1307	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+changeControl	KEYWORD2
+changeClockHalt	KEYWORD2
+change24Hour	KEYWORD2
+writeData	KEYWORD2
+readData	KEYWORD2
+readTime	KEYWORD2
+writeTime	KEYWORD2
+getSeconds	KEYWORD2
+setSeconds	KEYWORD2
+getMinutes	KEYWORD2
+setMinutes	KEYWORD2
+getHours	KEYWORD2
+setHours	KEYWORD2
+getWeekday	KEYWORD2
+setWeekday	KEYWORD2
+getDay	KEYWORD2
+setDay	KEYWORD2
+getMonth	KEYWORD2
+setMonth	KEYWORD2
+getYear	KEYWORD2
+setYear	KEYWORD2
+setTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DS1307_I2C_ADDR	LITERAL1
+DS1307_SECONDS_REG	LITERAL1
+DS1307_HOURS_REG	LITERAL1
+DS1307_CONTROL_REG	LITERAL1
+DS1307_RAM	LITERAL1
+
